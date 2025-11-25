@@ -1,4 +1,6 @@
 # Ramulator V2.0a
+이 저장소는 [CMU-SAFARI/ramulator2](https://github.com/CMU-SAFARI/ramulator2)를
+> 기반으로 HBM 주소 매핑 및 설정(my_hbm*.yaml 등)을 실험하기 위해 수정한 개인용 레포입니다.
 ## Introduction
 Ramulator 2.0 is a modern, modular, and extensible cycle-accurate DRAM simulator. It is the successor of Ramulator 1.0 [Kim+, CAL'16], achieving both fast simulation speed and ease of extension. The goal of Ramulator 2.0 is to enable rapid and agile implementation and evaluation of design changes in the memory controller and DRAM to meet the increasing research effort in improving the performance, security, and reliability of memory systems. Ramulator 2.0 abstracts and models key components in a DRAM-based memory system and their interactions into shared interfaces and independent implementations, enabling easy modification and extension of the modeled functions of the memory controller and DRAM. 
 
